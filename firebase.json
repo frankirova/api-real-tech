@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "realtech-ecomerce-react-coder",
+  "private_key_id": "34d624529c3d3862813f6587c846689c3a91cb6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPbuREr8iknYjJ\nA8VTCXJ7EKKayWkGeQZTDouGB/dtRdhLqMRQZH4YqTVVAypKe47uwmfP+KXYZG84\nJe/Dtnfl+RWXh5XTAo/RqqsmH4ETvTkfwBcbH6aR219XqIei9QReD65s4ZtWzuf2\nx8GkDXS6+t+wpn3VlWQjd9Agy4I/wsXZ38Ut0ZPSILBjpMY2UgUVkx4p41XaTYXV\nv/dlSGPUDuBcZKXmB78+qRhvjSJRiQF1BicRSTugoLLs/5m9cF67RcvuNMCSUtFQ\n9ujNObFDOXoyZ+rIkWg47A1G+pLKAYkODFqbc5bWrmMtG3h0C4UMQ7ZSKp7pV2LT\nIw/MeDAvAgMBAAECggEAKHJ8CjSokAizwlZ85IskCoEc48fANeXlaM6eQB1Pjrwe\nx+n5lZ9ywwZDgvciCPH81euMaI4YcJBs62riTKxIxswB/NEQUtveBUkdJEriVWIB\nQIKpPr22Mhyvg502DX1vQ5QVM9/t9UhVDNa4mG+TQl5mvcBJKxt9MjlLmQl1tU7A\nfPYQsA6RdCynWkWUPL+71f3rlGIZh1Z75Y0iSFqPygvMp9zG8MgILoE9NKdX2nK8\n3ZbwEaEC2BioHkFzV9H2dLbNzU+WdbtB+j6RQamWlbB6OjA+yiYf0R99ZMdVch0G\nDjM/YMvn6VFBhSIf6od6BCIeXItvnT8ywLXefypxwQKBgQDnuEIAe41oqdouCMiq\nG4lhrTGONJYV/05ym6fnvGtAezC1IV1TS8GhUl8kr3cOiQzL3s+3U6WB5a4gSckq\nirTnkxl3K+/2SBncn/bhbpjxAmMn8zR7ce5pujjuBvWGNsKRzFIcB8/WvlcffUhP\nk1v8mjVTwBixUGPFmQ9r0LWoYQKBgQDlKykvIOcV7XoQMGlZ8IPVb3ADvfo3CEAY\n2v9S65ON8ytSSAqSaok/bV9K/uDW/NG5LRWHgikOBsMM8KDWQwhtG13xMXad1KKd\ncC7QxoWAV8YJRhpQa3j8YvKyL47kCivzhrHRrVstWZCFhuzCvK3CWSw0PcaZ8lJu\nAt+r0MpijwKBgEdBUQKG+9gYiyAm0VYF+7wOnzOEljaTeNMjbIGFXlHI0BSS+vjX\nTebGxr0oO+s7V7UFgkh0r2t/bok9R2AOoUyo3mbYGwVX7KP8iNWPxfYu7sDlN9lS\nEqdufX0spKmuAy0EcKdv+4ikpXPoeakGvn2yCf4ED1PPTa8Av04/Mu1hAoGBANpo\ntCuSdCrV1cuwF/f73emA94TZfqsMVepabZSdqFdVNiiJOGoq1vt4RaW4HJlJAqg1\na5tmVbJkh2jBvMf3wwQZXQMOXTo2+XSLAlM/oOScwsT75wBWLUx9EUj5Qnnbp9/E\ns5xeV9N01OQtn2BJamEbk6GGbs0xwZXPb1TU/M3JAoGAZs4vKQ+8XdhYBGuDSTzC\n0cdF0kOSlnq+q0j5ksUpav6AmgJ9jslfg9TTV0fo6RfKSktz/zLV75/0H9rzfqr5\nahR1I56NQ/PPWYTOPaHu7/aS3zawsihIF6zJv2R1FZQNJ+jxhAdmvAyyMbcXn3qN\nSXG2J5ebmubukfcYj0dMocw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n6d34@realtech-ecomerce-react-coder.iam.gserviceaccount.com",
+  "client_id": "115257171406855075391",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n6d34%40realtech-ecomerce-react-coder.iam.gserviceaccount.com"
+}
